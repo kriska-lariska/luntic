@@ -1,0 +1,27 @@
+body{
+    font-size: 16px;
+    font-family: ui-sans-serif,system-ui,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 1em;
+    position: fixed;
+    color: white;
+    background-color: transparent;
+}
+
+header div{
+    display: flex;
+    justify-content: space-between;
+    gap: 1em;
+
+}
+
+.cover{
+    background: url();
+    background-size: cover;
+    height: 95vh;
+    
+}
